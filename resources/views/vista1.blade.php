@@ -1,8 +1,6 @@
 @extends('layouts.vistapadre')
 
-<!-- @section('title-principal')
-<title>Htours | balance general</title>
-@endsection -->
+
 
 @section('contenido-principal')
 

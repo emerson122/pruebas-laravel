@@ -5,6 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     @yield('title-principal')
+    <!-- @section('title-principal')
+<title>Htours | balance general</title>
+@endsection -->
     <!-- plugins:css -->
     <link rel="stylesheet" href="assets/vendors/mdi/css/materialdesignicons.min.css">
    <!-- inicio de  css de materialdesignicons.min.css -->
