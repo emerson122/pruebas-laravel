@@ -1,0 +1,1 @@
+<h1>ruta no protegida por la api</h1>
